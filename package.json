@@ -1,0 +1,25 @@
+{
+  "name": "12.6_Zadanie_Wyszukiwarka_krajow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtrwoga/12.6_Zadanie_Wyszukiwarka_krajow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtrwoga/12.6_Zadanie_Wyszukiwarka_krajow/issues"
+  },
+  "homepage": "https://github.com/dtrwoga/12.6_Zadanie_Wyszukiwarka_krajow#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
